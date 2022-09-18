@@ -48,7 +48,7 @@ that and say a few words with your thoughts what is the root cause. Please write
 “Bug report” for issue found in the way how you would create that in bugtracker system.
 
 
-#Meaningful test for "get/people"
+###Meaningful test for "get/people"
 1. Invalid UUID in path or query parameters
 2. Unsupported methods for endpoints for GET call
 3. Validation of status code
@@ -58,7 +58,7 @@ that and say a few words with your thoughts what is the root cause. Please write
 5.Validate complete schema structure including hyperlinks present in the json response.
 
 
-#Bug found with implementaion of wookie format are listed below:
+#####Bug found with implementaion of wookie format are listed below:
 
 1
 Description: API call with wookie format does not return error in wookie format.
